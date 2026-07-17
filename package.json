@@ -1,0 +1,13 @@
+{
+  "name": "triburile-barbari-bot",
+  "version": "1.0.0",
+  "description": "Notifica pe Discord cand apare un sat barbar nou pe o lume Triburile.ro",
+  "main": "index.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
